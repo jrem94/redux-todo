@@ -10,6 +10,8 @@ const AppWindow = styled.div`
   justify-content: center;
   align-content: center;
   align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 18px;
 `
 
 const VerticalSpace = styled.div`
