@@ -26,6 +26,7 @@ const App = () => (
     <AppBackground>
       <VerticalSpace />
       <AppWindow>
+        <h3>To Do:</h3>
         <AddTodo />
         <VisibleTodoList />
         <Footer />
